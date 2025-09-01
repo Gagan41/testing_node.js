@@ -9,3 +9,6 @@ console.log(pathObj);
 
 var dirOnj = path.parse(__dirname);
 console.log(dirOnj);
+
+
+//not the normal commonJS module it is ESmodule related which is the updated version  
